@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Elektornik"
+  },
+  {
+    "id": 2,
+    "name": "Giyim"
+  },
+  {
+    "id": 3,
+    "name": "Yiyecekler"
+  },
+  {
+    "id": 4,
+    "name": "Teknoloji"
+  },
+  {
+    "id": 5,
+    "name": "Spor"
+  },
+  {
+    "id": 6,
+    "name": "İçecekler"
+  },
+  {
+    "id": 7,
+    "name": "Bilgisayar"
+  }
+]
